@@ -1,0 +1,11 @@
+nltk
+fastapi
+uvicorn
+newspaper3k
+lxml_html_clean
+feedparser
+textblob
+apscheduler
+scikit-learn
+networkx
+apscheduler
